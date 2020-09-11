@@ -26,8 +26,6 @@ https://ravimulpuri.github.io/blog/
     </ul>
     <p style="color:black;font-size:20px;">And articles that may not fall into the categories mentioned above.
     </p>
-
-    <h1 style="color:black;font-size:36px;"><u>Posts</u></h1>
     
 </body>
 </html>
