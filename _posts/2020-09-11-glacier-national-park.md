@@ -4,7 +4,7 @@ description: Roadtrip to glacier national park
 layout: post
 toc: false
 comments: true
-images: images/glacier-national-park/lake-bowman.jpeg
+image: images/2020-09-11-glacier-national-park/entering-park.jpeg
 hide: false
 search_exclude: false
 categories: [roadtrip, national-park]
