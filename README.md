@@ -5,14 +5,30 @@
 
 https://ravimulpuri.github.io/blog/
 
-# My Blog
+<html>
+<head>
+    <title>About the blog</title>
+</head>
+<body>
+    <h1 style="color:black;font-size:36px;"><u>About the blog</u></h1>
+    <p style="color:black;font-size:20px;">I <i>will</i> write articles that broadly fall into the following categories.
+    </p>
+    <ul style="color:black;font-size:20px;">
+        <li><b>Computer vision</b> - articles based on concepts learned from <i>Deep Learning for computer vision with python</i>
+            series from Dr. Adrian Rosebrock and fastai courses</li>
+        <li><b>Natural Language Processing (NLP)</b> - articles based on concepts learned from NLP courses available online</li>
+        <li><b>Tensorflow</b> and <b>Pytorch</b> - implementations of neural networks, architecture, etc. using TensorFlow and PyTorch </li>
+        <li><b>Kaggle</b> - articles based on the competitions that I participated in or learned from </li>
+        <li><b>Book Reviews</b> - I set an ambitious goal to read 24 books in 2020. I have completed nine books so far. I will
+            pen down my notes and highlights from each book.</li>
+        <li><b>Trip photos</b> - I regularly travel to national parks throughout the US. I will post trip experiences
+            through text and pictures.</li>
+    </ul>
+    <p style="color:black;font-size:20px;">And articles that may not fall into the categories mentioned above.
+    </p>
 
-I am planning to write articles in the following categories
-1. Tensorflow and Pytorch implementation of several networks, architecture etc. 
-2. Computer vision articles based on concepts learned from _Deep Learning for computer vision with python_ series from Dr. Adrian Rosebrock and fastai courses
-3. Natural Language Processing(NLP) articles based on concepts learned from NLP courses available online
-4. `Book Reviews` - I set an ambitious goal to read 24 books in 2020. I completed 9 books so far. I want to pen down my notes and highlights from each book
-5. `Trip photos` - I used to travel regularly to national parks throughout US. I had great time at these places and also took some nice photos. I plan to post them as well
-
-And articles that may not fall in to the categories mentioned above
+    <h1 style="color:black;font-size:36px;"><u>Posts</u></h1>
+    
+</body>
+</html>
 
