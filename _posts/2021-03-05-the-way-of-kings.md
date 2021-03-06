@@ -1,18 +1,18 @@
 ---
 
-title: The way of kings
+title: The way of kings (The Stormlight Archive Book 1) 
 description: Book review
 layout: post
 toc: false
 comments: true
-image: images/the-way-of-kings.jpg
+image: images/2021-03-05-the-way-of-kings/book-cover.jpg
 hide: false
 search_exclude: false
 categories: [book-review, books]
 
 ---
 
-![]({{ site.baseurl }}/images/the-way-of-kings.jpg "book-cover")
+![]({{ site.baseurl }}/images/2021-03-05-the-way-of-kings/book-cover.jpg "book-cover")
 
 My rating: <a href="https://www.goodreads.com/review/show/3503433696">5 of 5 stars</a><br /><br />
 <blockquote> Life before death, strength before weakness, journey before destination. I will protect those who cannot protect themselves </blockquote><br /><br />Masterpiece !!! The best fiction book that I have read so far. When I started reading this book, I was unsure whether I could invest time in reading all the books in series (10 in total) as the first book alone has 1137 pages. But it was totally worth the read. The book established the characters, society, themes and concepts in the Cosmere world really well. While reading the last quarter of the book, I couldn't put it down without reading it for at least three hours straight in a sitting. By the time I finished reading this book, I had got so astonished by the twists and turns and took few hours just to absorb what I had just read <br /><br />I am excited to start the second book in this series, <i> Words of radiance </i> :)
