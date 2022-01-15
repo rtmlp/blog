@@ -1,1 +1,1 @@
-Sitemap: https://ravimulpuri.com/sitemap.xml
+Sitemap: https://ravimulpuri.github.io/blog/sitemap.xml
